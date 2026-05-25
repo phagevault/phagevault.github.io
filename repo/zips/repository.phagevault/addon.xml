@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.phagevault" name="Phage Vault Repository" version="0.0.2" provider-name="phage-zn">
+<addon id="repository.phagevault" name="Phage Vault Repository" version="1.0.0" provider-name="phage-zn">
     <extension point="xbmc.addon.repository" name="Phage Vault Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/phagevault/phagevault.github.io/master/repo/zips/addons.xml</info>
