@@ -22,6 +22,9 @@ IGNORE = [
     "thumbs.db",
     ".idea",
     "venv",
+    ".nvim.lua",
+    "pyrightconfig.json",
+    "scripts"
 ]
 _COLOR_ESCAPE = "\x1b[{}m"
 _COLORS = {
